@@ -1,0 +1,4 @@
+PDFJS_IMPACT_METADATA_MARKER_OK
+created=20260701_1817
+webhook=https://36.webhook.site/80f0e3ea-047f-4cc9-85d0-135e41459ca3
+metadata_only=true
