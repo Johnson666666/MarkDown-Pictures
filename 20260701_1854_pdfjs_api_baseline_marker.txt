@@ -1,0 +1,5 @@
+PDFJS_API_BASELINE_MARKER_OK
+created=20260701_1854
+webhook=https://36.webhook.site/80f0e3ea-047f-4cc9-85d0-135e41459ca3
+public_api_200=/igi-gateway/igi-edge-portal/user/getPubKey
+high_value_metadata_only=true
